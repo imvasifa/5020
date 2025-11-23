@@ -1,0 +1,51 @@
+ticker,status,info
+AMZN,NORMALIZE_FAIL,"ValueError('Length mismatch: Expected axis has 11 elements, new values have 6 elements')"
+GOOGL,NORMALIZE_FAIL,"ValueError('Length mismatch: Expected axis has 11 elements, new values have 6 elements')"
+ADBE,NORMALIZE_FAIL,"ValueError('Length mismatch: Expected axis has 11 elements, new values have 6 elements')"
+CSCO,NORMALIZE_FAIL,"ValueError('Length mismatch: Expected axis has 11 elements, new values have 6 elements')"
+INTC,NORMALIZE_FAIL,"ValueError('Length mismatch: Expected axis has 16 elements, new values have 6 elements')"
+AAPL,NORMALIZE_FAIL,"ValueError('Length mismatch: Expected axis has 11 elements, new values have 6 elements')"
+NVDA,NORMALIZE_FAIL,"ValueError('Length mismatch: Expected axis has 11 elements, new values have 6 elements')"
+NFLX,NORMALIZE_FAIL,"ValueError('Length mismatch: Expected axis has 11 elements, new values have 6 elements')"
+PEP,OK,250
+ORCL,OK,250
+KO,NORMALIZE_FAIL,"ValueError('Length mismatch: Expected axis has 11 elements, new values have 6 elements')"
+MSFT,OK,250
+PYPL,NORMALIZE_FAIL,"ValueError('Length mismatch: Expected axis has 11 elements, new values have 6 elements')"
+AMD,OK,250
+CRM,NORMALIZE_FAIL,"ValueError('Length mismatch: Expected axis has 11 elements, new values have 6 elements')"
+META,NORMALIZE_FAIL,"ValueError('Length mismatch: Expected axis has 11 elements, new values have 6 elements')"
+TSLA,OK,250
+DIS,OK,250
+AVGO,OK,250
+V,NORMALIZE_FAIL,"ValueError('Length mismatch: Expected axis has 11 elements, new values have 6 elements')"
+PFE,OK,250
+MS,OK,250
+T,OK,250
+WFC,OK,250
+JNJ,NORMALIZE_FAIL,"ValueError('Length mismatch: Expected axis has 11 elements, new values have 6 elements')"
+MA,NORMALIZE_FAIL,"ValueError('Length mismatch: Expected axis has 11 elements, new values have 6 elements')"
+WMT,NORMALIZE_FAIL,"ValueError('Length mismatch: Expected axis has 11 elements, new values have 6 elements')"
+BAC,NORMALIZE_FAIL,"ValueError('Length mismatch: Expected axis has 11 elements, new values have 6 elements')"
+COP,OK,250
+VZ,OK,250
+JPM,OK,250
+BA,OK,250
+GE,OK,250
+C,OK,250
+NKE,OK,250
+XOM,OK,250
+GS,OK,250
+CAT,OK,250
+TXN,OK,250
+HD,OK,250
+UNH,OK,250
+QCOM,NORMALIZE_FAIL,"ValueError('Length mismatch: Expected axis has 11 elements, new values have 6 elements')"
+IBM,NORMALIZE_FAIL,"ValueError('Length mismatch: Expected axis has 11 elements, new values have 6 elements')"
+AMAT,NORMALIZE_FAIL,"ValueError('Length mismatch: Expected axis has 11 elements, new values have 6 elements')"
+COST,NORMALIZE_FAIL,"ValueError('Length mismatch: Expected axis has 11 elements, new values have 6 elements')"
+MCD,NORMALIZE_FAIL,"ValueError('Length mismatch: Expected axis has 11 elements, new values have 6 elements')"
+ABBV,NORMALIZE_FAIL,"ValueError('Length mismatch: Expected axis has 11 elements, new values have 6 elements')"
+LLY,NORMALIZE_FAIL,"ValueError('Length mismatch: Expected axis has 11 elements, new values have 6 elements')"
+CVX,NORMALIZE_FAIL,"ValueError('Length mismatch: Expected axis has 11 elements, new values have 6 elements')"
+MRK,NORMALIZE_FAIL,"ValueError('Length mismatch: Expected axis has 16 elements, new values have 6 elements')"
