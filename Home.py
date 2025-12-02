@@ -3,6 +3,11 @@ from streamlit.components.v1 import html
 import sqlite3
 import bcrypt
 
+from db_setup import init_db, ensure_admin
+
+init_db()
+ensure_admin()
+
 # ==========================================================
 # INIT DATABASE
 # ==========================================================
